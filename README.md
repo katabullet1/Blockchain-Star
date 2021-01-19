@@ -1,7 +1,4 @@
-# Lesson 3. Star Notary V2
-
-For this you will need to use the latest version of Truffle and Metamask
-
+  
 - Truffle: Truffle v5.0.2 - a development framework for Ethereum
 - Metamask: 5.3.1
 
@@ -11,7 +8,7 @@ If you need to update truffle to the latest version use:
 If you need to update Metamask just delete your Metamask extension and install it again.
 
 
-Hi there
+# Hi there
 I used penZeppelin 2 npm install openzeppelin-solidity@2
 Truffle v5.1.61 
 Node version 10
